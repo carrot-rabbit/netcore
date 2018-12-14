@@ -3280,11 +3280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj",
+      "projectUniqueName": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj",
       "projectName": "OTC.Data",
-      "projectPath": "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj",
+      "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj",
       "packagesPath": "C:\\Users\\HQL\\.nuget\\packages\\",
-      "outputPath": "F:\\NewStart\\OTC\\OTC.Model\\obj\\",
+      "outputPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3303,11 +3303,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\NewStart\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj"
             },
-            "F:\\NewStart\\OTC\\OTC.Dto\\OTC.Dto.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.Dto\\OTC.Dto.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Dto\\OTC.Dto.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Dto\\OTC.Dto.csproj"
             }
           }
         }

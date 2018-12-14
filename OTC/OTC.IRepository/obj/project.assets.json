@@ -3298,11 +3298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NewStart\\OTC\\OTC.IRepository\\OTC.IRepository.csproj",
+      "projectUniqueName": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj",
       "projectName": "OTC.IRepository",
-      "projectPath": "F:\\NewStart\\OTC\\OTC.IRepository\\OTC.IRepository.csproj",
+      "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj",
       "packagesPath": "C:\\Users\\HQL\\.nuget\\packages\\",
-      "outputPath": "F:\\NewStart\\OTC\\OTC.IRepository\\obj\\",
+      "outputPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3321,8 +3321,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj"
             }
           }
         }

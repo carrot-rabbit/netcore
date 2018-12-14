@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NewStart\\OTC\\OTC.Document\\OTC.Document.csproj",
+      "projectUniqueName": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Document\\OTC.Document.csproj",
       "projectName": "OTC.Document",
-      "projectPath": "F:\\NewStart\\OTC\\OTC.Document\\OTC.Document.csproj",
+      "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Document\\OTC.Document.csproj",
       "packagesPath": "C:\\Users\\HQL\\.nuget\\packages\\",
-      "outputPath": "F:\\NewStart\\OTC\\OTC.Document\\obj\\",
+      "outputPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Document\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

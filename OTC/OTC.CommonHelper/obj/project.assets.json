@@ -1468,11 +1468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NewStart\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj",
+      "projectUniqueName": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj",
       "projectName": "OTC.CommonHelper",
-      "projectPath": "F:\\NewStart\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj",
+      "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.CommonHelper\\OTC.CommonHelper.csproj",
       "packagesPath": "C:\\Users\\HQL\\.nuget\\packages\\",
-      "outputPath": "F:\\NewStart\\OTC\\OTC.CommonHelper\\obj\\",
+      "outputPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.CommonHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

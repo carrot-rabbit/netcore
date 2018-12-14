@@ -13545,11 +13545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NewStart\\OTC\\OTC.Web\\OTC.Web.csproj",
+      "projectUniqueName": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Web\\OTC.Web.csproj",
       "projectName": "OTC.Web",
-      "projectPath": "F:\\NewStart\\OTC\\OTC.Web\\OTC.Web.csproj",
+      "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Web\\OTC.Web.csproj",
       "packagesPath": "C:\\Users\\HQL\\.nuget\\packages\\",
-      "outputPath": "F:\\NewStart\\OTC\\OTC.Web\\obj\\",
+      "outputPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13568,14 +13568,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\NewStart\\OTC\\OTC.IRepository\\OTC.IRepository.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.IRepository\\OTC.IRepository.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj"
             },
-            "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.Model\\OTC.Data.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj"
             },
-            "F:\\NewStart\\OTC\\OTC.Repository\\OTC.Repository.csproj": {
-              "projectPath": "F:\\NewStart\\OTC\\OTC.Repository\\OTC.Repository.csproj"
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Repository\\OTC.Repository.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Repository\\OTC.Repository.csproj"
             }
           }
         }
