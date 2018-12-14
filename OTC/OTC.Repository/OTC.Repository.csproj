@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OTC.IRepository\OTC.IRepository.csproj" />
+    <ProjectReference Include="..\OTC.Model\OTC.Data.csproj" />
+  </ItemGroup>
+
+</Project>

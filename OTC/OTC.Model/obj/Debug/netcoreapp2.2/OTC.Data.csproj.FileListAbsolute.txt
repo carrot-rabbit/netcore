@@ -1,0 +1,14 @@
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.Data.deps.json
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.Data.dll
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.Data.pdb
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.Dto.dll
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+F:\NewStart\OTC\OTC.Model\bin\Debug\netcoreapp2.2\OTC.Dto.pdb
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.csprojAssemblyReference.cache
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.csproj.CoreCompileInputs.cache
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.AssemblyInfoInputs.cache
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.AssemblyInfo.cs
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.csproj.CopyComplete
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.dll
+F:\NewStart\OTC\OTC.Model\obj\Debug\netcoreapp2.2\OTC.Data.pdb

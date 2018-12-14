@@ -1,0 +1,46 @@
+﻿<%-- 
+Name:
+Author: 
+Description: 
+--%>
+<%@ CodeTemplate Inherits="CodeTemplate" Language="C#" TargetLanguage="Text" Description="NetTiers main template." Debug="True" ResponseEncoding="UTF-8"%>
+
+<%@ Register Name="Utility" Template="Utility.cst" MergeProperties="true" ExcludeProperties="" Debug="true" %>
+<%@ Assembly Name="SchemaExplorer"%>
+<%@ Import Namespace="SchemaExplorer"%>
+
+<%@ Property Name="Table" Type="TableSchema" DeepLoad="True" Optional="False" Category="01. Getting Started - Required" Description="Database that the tables views, and stored procedures should be based on. IMPORTANT!!! If SourceTables and SourceViews are left blank, the Entire Database will then be generated."%>
+
+using System;
+using System.Linq;
+using CC.Repository.Common;
+using System.Collections.Generic;
+using CC.IRepository.<%=utility.GetSpaceName(Table.Name) %>;
+using CC.DataModel.<%=utility.GetSpaceName(Table.Name) %>;
+
+namespace CC.Repository.<%=utility.GetSpaceName(Table.Name) %>
+{
+    public class <%=utility.GetTableName(Table.Name) %>Repository : BaseRepository<<%=utility.GetTableName(Table.Name) %>>, I<%=utility.GetTableName(Table.Name) %>Repository
+    {
+        /// <summary>
+        /// 获取分页数据
+        /// </summary>
+        /// <param name="pageSize">每页记录数</param>
+        /// <param name="pageIndex">页码</param>
+        /// <param name="totalCount">总记录数</param>
+        /// <returns>List<dynamic></returns>
+        public IEnumerable<dynamic> GetPageDynamicData(int pageSize, int pageIndex, out int totalCount)
+        {
+            IEnumerable<dynamic> ret = GetPageDynamicData("<%=Table.Name%>","*", "CreateTime desc", pageSize, pageIndex,"", out totalCount,null);
+            
+            return ret;
+        }
+    }
+}
+
+
+
+
+<script runat="template">
+Utility utility = new Utility();
+</script>

@@ -1,0 +1,3 @@
+F:\NewStart\OTC\OTC\obj\Debug\netcoreapp2.2\OTC.csproj.CoreCompileInputs.cache
+F:\NewStart\OTC\OTC\obj\Debug\netcoreapp2.2\OTC.AssemblyInfoInputs.cache
+F:\NewStart\OTC\OTC\obj\Debug\netcoreapp2.2\OTC.AssemblyInfo.cs

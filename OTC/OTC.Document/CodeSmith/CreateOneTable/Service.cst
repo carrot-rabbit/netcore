@@ -1,0 +1,150 @@
+﻿<%-- 
+Name:
+Author: 
+Description: 
+--%>
+<%@ CodeTemplate Inherits="CodeTemplate" Language="C#" TargetLanguage="Text" Description="NetTiers main template." Debug="True" ResponseEncoding="UTF-8"%>
+
+<%@ Register Name="Utility" Template="Utility.cst" MergeProperties="true" ExcludeProperties="" Debug="true" %>
+<%@ Assembly Name="SchemaExplorer"%>
+<%@ Import Namespace="SchemaExplorer"%>
+
+<%@ Property Name="Table" Type="TableSchema" DeepLoad="True" Optional="False" Category="01. Getting Started - Required" Description="Database that the tables views, and stored procedures should be based on. IMPORTANT!!! If SourceTables and SourceViews are left blank, the Entire Database will then be generated."%>
+
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using CC.CommonUtil;
+using CC.IRepository.<%=utility.GetSpaceName(Table.Name) %>;
+using CC.DataModel.<%=utility.GetSpaceName(Table.Name) %>;
+using CC.Repository.<%=utility.GetSpaceName(Table.Name) %>;
+
+namespace CC.Service.<%=utility.GetSpaceName(Table.Name) %>
+{
+    public class <%=utility.GetTableName(Table.Name) %>Service
+    {
+        private readonly I<%=utility.GetTableName(Table.Name) %>Repository _repository;
+       
+        public <%=utility.GetTableName(Table.Name) %>Service()
+        {
+            _repository = new <%=utility.GetTableName(Table.Name) %>Repository();
+            SetReadConnectionStringName();
+        }
+
+        /// <summary>
+        /// 读
+        /// </summary>
+        public void SetReadConnectionStringName()
+        {
+            _repository.SetReadConnectionStringName();
+        }
+        /// <summary>
+        /// 写
+        /// </summary>
+        public void SetWriteConnectionStringName()
+        {
+            _repository.SetWriteConnectionStringName();
+        }
+        /// <summary>
+        /// 根据主键查询返回实体
+        /// </summary>
+        /// <param name="id">主键</param>
+        /// <returns>实体</returns>
+        public <%=utility.GetTableName(Table.Name) %> SelectToModel(int id)
+        {
+            <%=utility.GetTableName(Table.Name) %> model = _repository.SelectToModel(id);
+            if (model == null)
+            {
+                model = new <%=utility.GetTableName(Table.Name) %>();
+            }
+            return model;
+        }
+
+        /// <summary>
+        /// Add
+        /// </summary>
+        /// <returns>成功TRUE</returns>
+        public int Add(<%=utility.GetTableName(Table.Name) %> model)
+        {
+            SetWriteConnectionStringName();
+            return _repository.Add(model);
+        }
+
+        /// <summary>
+        /// Update
+        /// </summary>
+        /// <param name="news">实体</param>
+        /// <returns>成功TRUE</returns>
+        public bool Update(<%=utility.GetTableName(Table.Name) %> model)
+        {
+            SetWriteConnectionStringName();
+            bool ret = false;
+            if (_repository.Update(model) > 0)
+            {
+                ret = true;
+            }
+
+            return ret;
+        }
+        /// <summary>
+        /// Delete
+        /// </summary>
+        /// <param name="model">实体</param>
+        /// <returns></returns>
+        public bool Delete(<%=utility.GetTableName(Table.Name) %> model)
+        {
+            SetWriteConnectionStringName();
+            bool ret = false;
+            if (_repository.Delete(model) > 0)
+            {
+                ret = true;
+            }
+           
+            return ret;
+        }
+        /// <summary>
+        /// Delete
+        /// </summary>
+        /// <param name="id">主键</param>
+        /// <returns>成功TRUE</returns>
+        public bool Delete(int id)
+        {
+            SetWriteConnectionStringName();
+            bool ret = false;
+            if (_repository.Delete(id) > 0)
+            {
+                ret = true;
+            }
+            return ret;
+        }
+       
+        /// <summary>
+        /// 获取分页数据
+        /// </summary>
+        /// <param name="pageSize">每页记录数</param>
+        /// <param name="pageIndex">页码</param>
+        /// <param name="totalCount">总记录数</param>
+        /// <returns>List<dynamic></returns>
+        public List<dynamic> GetPageDynamicData(int pageSize, int pageIndex, out int totalCount)
+        {
+            List<dynamic> ret = null;
+            totalCount = 0;
+            ret = _repository.GetPageDynamicData(pageSize, pageIndex, out totalCount).ToList();
+            if (ret == null)
+            {
+                ret=new List<dynamic>();
+            }
+            
+            return ret;
+        }
+    }
+}
+
+
+
+
+
+<script runat="template">
+Utility utility = new Utility();
+</script>

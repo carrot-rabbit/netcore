@@ -1,0 +1,8 @@
+F:\NewStart\OTC\Document\bin\Debug\netcoreapp2.2\OTC.Document.deps.json
+F:\NewStart\OTC\Document\bin\Debug\netcoreapp2.2\OTC.Document.dll
+F:\NewStart\OTC\Document\bin\Debug\netcoreapp2.2\OTC.Document.pdb
+F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.csproj.CoreCompileInputs.cache
+F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfoInputs.cache
+F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfo.cs
+F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.dll
+F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.pdb

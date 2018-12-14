@@ -1,0 +1,34 @@
+﻿<%-- 
+Name:
+Author: 
+Description: 
+--%>
+<%@ CodeTemplate Inherits="CodeTemplate" Language="C#" TargetLanguage="Text" Description="NetTiers main template." Debug="True" ResponseEncoding="UTF-8"%>
+
+<%@ Register Name="Utility" Template="Utility.cst" MergeProperties="true" ExcludeProperties="" Debug="true" %>
+<%@ Assembly Name="SchemaExplorer"%>
+<%@ Import Namespace="SchemaExplorer"%>
+
+<%@ Property Name="Table" Type="TableSchema" DeepLoad="True" Optional="False" Category="01. Getting Started - Required" Description="Database that the tables views, and stored procedures should be based on. IMPORTANT!!! If SourceTables and SourceViews are left blank, the Entire Database will then be generated."%>
+
+using System;
+using CC.Domain.DataCore;
+namespace CC.DataModel.<%=utility.GetSpaceName(Table.Name) %>
+{
+    [TableName("<%=Table.Name%>")]
+    [PrimaryKey("Id", autoIncrement = true)]
+    public class <%=utility.GetTableName(Table.Name) %>
+    {
+        <%foreach(ColumnSchema col in Table.Columns){  %>      
+        /// <summary>
+        /// <%=col.Description %>
+        /// </summary>
+        public <%=utility.GetColDatatypeName(col.NativeType,col.AllowDBNull)%> <%=col.Name.ToString()%> { get; set; } 
+        <%}%>
+    }
+}
+
+
+<script runat="template">
+Utility utility = new Utility();
+</script>

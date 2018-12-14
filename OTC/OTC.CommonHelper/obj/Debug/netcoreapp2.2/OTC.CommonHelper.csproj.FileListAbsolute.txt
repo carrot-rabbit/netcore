@@ -1,0 +1,17 @@
+F:\NewStart\OTC\CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.deps.json
+F:\NewStart\OTC\CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+F:\NewStart\OTC\CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.csprojAssemblyReference.cache
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.csproj.CoreCompileInputs.cache
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfoInputs.cache
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfo.cs
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+F:\NewStart\OTC\CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+F:\NewStart\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.deps.json
+F:\NewStart\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+F:\NewStart\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.csproj.CoreCompileInputs.cache
+F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfoInputs.cache
+F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfo.cs
+F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
