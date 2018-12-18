@@ -6,3 +6,11 @@ F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfoInputs
 F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfo.cs
 F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.dll
 F:\NewStart\OTC\Document\obj\Debug\netcoreapp2.2\OTC.Document.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\bin\Debug\netcoreapp2.2\OTC.Document.deps.json
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\bin\Debug\netcoreapp2.2\OTC.Document.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\bin\Debug\netcoreapp2.2\OTC.Document.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\obj\Debug\netcoreapp2.2\OTC.Document.csproj.CoreCompileInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfoInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\obj\Debug\netcoreapp2.2\OTC.Document.AssemblyInfo.cs
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\obj\Debug\netcoreapp2.2\OTC.Document.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Document\obj\Debug\netcoreapp2.2\OTC.Document.pdb

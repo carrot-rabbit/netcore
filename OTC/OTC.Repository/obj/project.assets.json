@@ -3289,8 +3289,8 @@
     },
     "OTC.Data/1.0.0": {
       "type": "project",
-      "path": "../OTC.Model/OTC.Data.csproj",
-      "msbuildProject": "../OTC.Model/OTC.Data.csproj"
+      "path": "../OTC.Data/OTC.Data.csproj",
+      "msbuildProject": "../OTC.Data/OTC.Data.csproj"
     },
     "OTC.Dto/1.0.0": {
       "type": "project",
@@ -3340,11 +3340,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Data\\OTC.Data.csproj": {
+              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Data\\OTC.Data.csproj"
+            },
             "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj": {
               "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.IRepository\\OTC.IRepository.csproj"
-            },
-            "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj": {
-              "projectPath": "C:\\Users\\HQL\\source\\repos\\carrot-rabbit\\netcore\\OTC\\OTC.Model\\OTC.Data.csproj"
             }
           }
         }

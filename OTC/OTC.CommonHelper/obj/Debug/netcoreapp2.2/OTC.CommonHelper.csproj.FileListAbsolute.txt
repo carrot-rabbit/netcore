@@ -15,3 +15,11 @@ F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.Assemb
 F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfo.cs
 F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.dll
 F:\NewStart\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.deps.json
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\bin\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfoInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.AssemblyInfo.cs
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.CommonHelper\obj\Debug\netcoreapp2.2\OTC.CommonHelper.pdb

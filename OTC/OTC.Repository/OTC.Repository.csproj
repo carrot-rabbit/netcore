@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\OTC.Data\OTC.Data.csproj" />
     <ProjectReference Include="..\OTC.IRepository\OTC.IRepository.csproj" />
-    <ProjectReference Include="..\OTC.Model\OTC.Data.csproj" />
   </ItemGroup>
 
 </Project>

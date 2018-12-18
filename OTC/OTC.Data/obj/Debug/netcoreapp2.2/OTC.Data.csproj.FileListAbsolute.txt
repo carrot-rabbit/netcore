@@ -1,0 +1,14 @@
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.csprojAssemblyReference.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.csproj.CoreCompileInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.AssemblyInfoInputs.cache
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.AssemblyInfo.cs
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.Data.deps.json
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.Data.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.Data.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.CommonHelper.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.Dto.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.CommonHelper.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\bin\Debug\netcoreapp2.2\OTC.Dto.pdb
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.csproj.CopyComplete
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.dll
+C:\Users\HQL\source\repos\carrot-rabbit\netcore\OTC\OTC.Data\obj\Debug\netcoreapp2.2\OTC.Data.pdb
